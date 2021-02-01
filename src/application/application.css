@@ -1,0 +1,30 @@
+
+.root {
+	 -fx-background-color: 	#2C001E;
+	
+}
+
+.text-area {
+    -fx-font-family: Consolas;
+    -fx-font-size: 15;
+    -fx-text-fill: #98ff98;
+    -fx-display-caret:true;
+}
+
+.text-area .content {
+    -fx-background-color: #2C001E;
+}
+
+.text-input {
+  -fx-background-color: green;
+  -fx-background-insets: 0, 1;
+  -fx-background-radius: 3, 2;
+   -fx-background-color:white ;
+}
+
+.button {
+    -fx-background-color: Black;
+    -fx-text-fill:white;
+}
+
+
